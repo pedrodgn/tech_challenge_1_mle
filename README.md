@@ -561,7 +561,20 @@ Este repositório implementa um pipeline completo para disponibilizar dados de l
 
     ```
 
+### Como reproduzir localmente a API
 
+#### 1) Ajustes mínimos (opcional, mas recomendado)
+- No `auth.py`, substitua a `SECRET_KEY` por um valor forte.
+- Avançado: externalize `SECRET_KEY` como variável de ambiente e ajuste o código para ler via `os.getenv`.
+
+#### 2) Subir a aplicação (ambiente local)
+- Na raiz do projeto:
+  - `uvicorn main:app --reload`
+- A API subirá, por padrão, em: `http://127.0.0.1:8000`
+
+#### 3) Documentação automática (FastAPI)
+- Swagger UI: `http://127.0.0.1:8000/docs`
+- Redoc: `http://127.0.0.1:8000/redoc`
 # ---
 
 # 
