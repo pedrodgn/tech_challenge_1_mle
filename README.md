@@ -3,7 +3,8 @@
 ## Utilização
 
 Link do deploy: https://tech-challenge-1-mle.onrender.com/
-Link do Streamlit: https://tech-challenge-1-mle.onrender.com/
+
+Link do Streamlit: https://techchallenge1mle-logdechamadas.streamlit.app/
 
 ## Demonstração
 
