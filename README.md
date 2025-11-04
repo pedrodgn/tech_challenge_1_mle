@@ -1,6 +1,9 @@
 # Books API — Tech Challenge (Fase 1)
 
+## Utilização
 
+Link do deploy: https://tech-challenge-1-mle.onrender.com/
+Link do Streamlit: https://tech-challenge-1-mle.onrender.com/
 
 ## Visão geral do projeto
 
@@ -53,7 +56,13 @@ Este repositório implementa um pipeline completo para disponibilizar dados de l
 
 ---
 
- 
+ ## Fluxo detalhado
+
+![texto](./fluxo_completo.jpg)
+
+ ## Fluxo Machine Learning detalhado
+
+![texto](./fluxo_completo_ml.jpg)
 
 ## Estrutura recomendada de pastas
 
