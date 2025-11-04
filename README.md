@@ -47,7 +47,9 @@ Este repositório implementa um pipeline completo para disponibilizar dados de l
 > Tabelas auxiliares geridas pela API: `users`, `ml\_predictions`.
 
 
+## Diagrama
 
+!(diagrama.jpg)
 ---
 
  
@@ -543,6 +545,8 @@ Este repositório implementa um pipeline completo para disponibilizar dados de l
     {"access\_token":"<NEW\_JWT>", "token\_type":"bearer"}
 
     ```
+
+
 # ---
 
 # 
