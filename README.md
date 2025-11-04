@@ -49,7 +49,7 @@ Este repositório implementa um pipeline completo para disponibilizar dados de l
 
 ## Diagrama
 
-!(diagrama.jpg)
+![texto](./diagrama.jpg)
 
 ---
 
