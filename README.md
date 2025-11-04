@@ -8,7 +8,7 @@ Link do Streamlit: https://techchallenge1mle-logdechamadas.streamlit.app/
 
 ## Demonstração
 
-Link da demonstraçao: 
+Link da demonstraçao: https://www.youtube.com/watch?v=MXKybMZ67No&feature=youtu.be
 
 ## Visão geral do projeto
 
