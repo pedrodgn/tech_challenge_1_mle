@@ -5,6 +5,10 @@
 Link do deploy: https://tech-challenge-1-mle.onrender.com/
 Link do Streamlit: https://tech-challenge-1-mle.onrender.com/
 
+## Demonstração
+
+Link da demonstraçao: 
+
 ## Visão geral do projeto
 
 Este repositório implementa um pipeline completo para disponibilizar dados de livros por meio de uma API pública, simulando um cenário real de construção de uma base para \*\*recomendações de livros\*\*. O fluxo contempla:
@@ -54,15 +58,8 @@ Este repositório implementa um pipeline completo para disponibilizar dados de l
 
 ![texto](./diagrama.jpg)
 
----
 
- ## Fluxo detalhado
 
-![texto](./fluxo_completo.jpg)
-
- ## Fluxo Machine Learning detalhado
-
-![texto](./fluxo_completo_ml.jpg)
 
 ## Estrutura recomendada de pastas
 
@@ -98,6 +95,13 @@ Este repositório implementa um pipeline completo para disponibilizar dados de l
 
 ```
 
+## Fluxo detalhado 
+
+![texto](./fluxo_completo.jpg)
+
+ ## Fluxo Machine Learning detalhado
+
+![texto](./fluxo_completo_ml.jpg)
 
 ## Pipeline de dados
 
